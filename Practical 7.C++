@@ -16,7 +16,7 @@ int main()
     Student std;
 
   
-    std.rollNo = 08;
+    std.rollNo = 8;
     std.stdName = "Chirag Chavan";
     std.Branch = "EXTC";
 
